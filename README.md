@@ -1,5 +1,5 @@
 ## Introduction 👋
-영남대학교에 2학년 재학하고 있는 학생. 
+영남대학교에 2학년 재학하고 있는 25학번 학생 Seolmin Lee. 
 ## Career
 (아직 없음)
 ## Goals🔭
