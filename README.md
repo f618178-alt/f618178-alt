@@ -1,5 +1,5 @@
 ## Introduction 👋
-
+영남대학교에 2학년 재학중 
 <!--
 **f618178-alt/f618178-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
