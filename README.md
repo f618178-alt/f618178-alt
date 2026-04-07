@@ -1,5 +1,11 @@
 ## Introduction 👋
-영남대학교에 2학년 재학중 
+영남대학교에 2학년 재학하고 있는 학생. 
+## Career
+(아직 없음)
+## Goals
+여러 경험을 통해 경험치를 쌓아 성장하여 취업과 하고 싶은걸 해보고 사는 목표를 가지고 있다.
+## Characteristics
+## 성실함, 꼼꼼함, 모르는게 있으면 해쳐나갈려는 의지가 있음, 혼자보다는 서로가 함께하는 일을 선호. ##
 <!--
 **f618178-alt/f618178-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
